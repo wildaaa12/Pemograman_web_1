@@ -1,0 +1,15 @@
+.judul4 {
+    color:#7aa2ed;
+    font-size:26px;
+    text-align:left;
+    font-family: 'Comic Sans Ms';
+}
+
+#h2{
+    color:#bbff90;
+}
+
+table, th, td{
+    border: 1px solid #aec2ff;
+    font-family: "Arial Black";
+}
